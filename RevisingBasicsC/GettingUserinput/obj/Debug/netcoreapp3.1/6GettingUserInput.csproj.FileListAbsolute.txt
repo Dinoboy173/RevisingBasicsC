@@ -1,0 +1,10 @@
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\GettingUserinput\bin\Debug\netcoreapp3.1\6GettingUserInput.exe
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\GettingUserinput\bin\Debug\netcoreapp3.1\6GettingUserInput.deps.json
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\GettingUserinput\bin\Debug\netcoreapp3.1\6GettingUserInput.runtimeconfig.json
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\GettingUserinput\bin\Debug\netcoreapp3.1\6GettingUserInput.runtimeconfig.dev.json
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\GettingUserinput\bin\Debug\netcoreapp3.1\6GettingUserInput.dll
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\GettingUserinput\bin\Debug\netcoreapp3.1\6GettingUserInput.pdb
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\GettingUserinput\obj\Debug\netcoreapp3.1\6GettingUserInput.AssemblyInfoInputs.cache
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\GettingUserinput\obj\Debug\netcoreapp3.1\6GettingUserInput.AssemblyInfo.cs
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\GettingUserinput\obj\Debug\netcoreapp3.1\6GettingUserInput.dll
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\GettingUserinput\obj\Debug\netcoreapp3.1\6GettingUserInput.pdb

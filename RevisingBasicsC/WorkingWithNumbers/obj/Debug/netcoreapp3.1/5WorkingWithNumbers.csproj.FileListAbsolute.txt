@@ -1,0 +1,10 @@
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\WorkingWithNumbers\bin\Debug\netcoreapp3.1\5WorkingWithNumbers.exe
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\WorkingWithNumbers\bin\Debug\netcoreapp3.1\5WorkingWithNumbers.deps.json
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\WorkingWithNumbers\bin\Debug\netcoreapp3.1\5WorkingWithNumbers.runtimeconfig.json
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\WorkingWithNumbers\bin\Debug\netcoreapp3.1\5WorkingWithNumbers.runtimeconfig.dev.json
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\WorkingWithNumbers\bin\Debug\netcoreapp3.1\5WorkingWithNumbers.dll
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\WorkingWithNumbers\bin\Debug\netcoreapp3.1\5WorkingWithNumbers.pdb
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\WorkingWithNumbers\obj\Debug\netcoreapp3.1\5WorkingWithNumbers.AssemblyInfoInputs.cache
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\WorkingWithNumbers\obj\Debug\netcoreapp3.1\5WorkingWithNumbers.AssemblyInfo.cs
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\WorkingWithNumbers\obj\Debug\netcoreapp3.1\5WorkingWithNumbers.dll
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\WorkingWithNumbers\obj\Debug\netcoreapp3.1\5WorkingWithNumbers.pdb

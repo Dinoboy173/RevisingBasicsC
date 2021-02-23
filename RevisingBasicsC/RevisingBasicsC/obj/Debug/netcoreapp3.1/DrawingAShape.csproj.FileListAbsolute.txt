@@ -1,0 +1,10 @@
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\RevisingBasicsC\bin\Debug\netcoreapp3.1\DrawingAShape.exe
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\RevisingBasicsC\bin\Debug\netcoreapp3.1\DrawingAShape.deps.json
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\RevisingBasicsC\bin\Debug\netcoreapp3.1\DrawingAShape.runtimeconfig.json
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\RevisingBasicsC\bin\Debug\netcoreapp3.1\DrawingAShape.runtimeconfig.dev.json
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\RevisingBasicsC\bin\Debug\netcoreapp3.1\DrawingAShape.dll
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\RevisingBasicsC\bin\Debug\netcoreapp3.1\DrawingAShape.pdb
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\RevisingBasicsC\obj\Debug\netcoreapp3.1\DrawingAShape.AssemblyInfoInputs.cache
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\RevisingBasicsC\obj\Debug\netcoreapp3.1\DrawingAShape.AssemblyInfo.cs
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\RevisingBasicsC\obj\Debug\netcoreapp3.1\DrawingAShape.dll
+C:\Users\s201031\Desktop\Revising Basics\RevisingBasicsC\RevisingBasicsC\RevisingBasicsC\obj\Debug\netcoreapp3.1\DrawingAShape.pdb
