@@ -1,0 +1,10 @@
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\10IfStatements\bin\Debug\netcoreapp3.1\10IfStatements.exe
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\10IfStatements\bin\Debug\netcoreapp3.1\10IfStatements.deps.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\10IfStatements\bin\Debug\netcoreapp3.1\10IfStatements.runtimeconfig.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\10IfStatements\bin\Debug\netcoreapp3.1\10IfStatements.runtimeconfig.dev.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\10IfStatements\bin\Debug\netcoreapp3.1\10IfStatements.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\10IfStatements\bin\Debug\netcoreapp3.1\10IfStatements.pdb
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\10IfStatements\obj\Debug\netcoreapp3.1\10IfStatements.AssemblyInfoInputs.cache
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\10IfStatements\obj\Debug\netcoreapp3.1\10IfStatements.AssemblyInfo.cs
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\10IfStatements\obj\Debug\netcoreapp3.1\10IfStatements.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\10IfStatements\obj\Debug\netcoreapp3.1\10IfStatements.pdb

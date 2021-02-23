@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\GettingUserinput\\6GettingUserInput.csproj": {}
+    "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\GettingUserinput\\6GettingUserInput.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\GettingUserinput\\6GettingUserInput.csproj": {
+    "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\GettingUserinput\\6GettingUserInput.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\GettingUserinput\\6GettingUserInput.csproj",
+        "projectUniqueName": "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\GettingUserinput\\6GettingUserInput.csproj",
         "projectName": "6GettingUserInput",
-        "projectPath": "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\GettingUserinput\\6GettingUserInput.csproj",
+        "projectPath": "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\GettingUserinput\\6GettingUserInput.csproj",
         "packagesPath": "C:\\Users\\s201031\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\GettingUserinput\\obj\\",
+        "outputPath": "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\GettingUserinput\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s201031\\AppData\\Roaming\\NuGet\\NuGet.Config",

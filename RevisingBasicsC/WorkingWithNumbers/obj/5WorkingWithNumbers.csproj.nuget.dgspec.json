@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithNumbers\\5WorkingWithNumbers.csproj": {}
+    "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithNumbers\\5WorkingWithNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithNumbers\\5WorkingWithNumbers.csproj": {
+    "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithNumbers\\5WorkingWithNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithNumbers\\5WorkingWithNumbers.csproj",
+        "projectUniqueName": "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithNumbers\\5WorkingWithNumbers.csproj",
         "projectName": "5WorkingWithNumbers",
-        "projectPath": "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithNumbers\\5WorkingWithNumbers.csproj",
+        "projectPath": "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithNumbers\\5WorkingWithNumbers.csproj",
         "packagesPath": "C:\\Users\\s201031\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithNumbers\\obj\\",
+        "outputPath": "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s201031\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\7Arrays\\7Arrays.csproj": {}
+    "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\7Arrays\\7Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\7Arrays\\7Arrays.csproj": {
+    "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\7Arrays\\7Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\7Arrays\\7Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\7Arrays\\7Arrays.csproj",
         "projectName": "7Arrays",
-        "projectPath": "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\7Arrays\\7Arrays.csproj",
+        "projectPath": "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\7Arrays\\7Arrays.csproj",
         "packagesPath": "C:\\Users\\s201031\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\7Arrays\\obj\\",
+        "outputPath": "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\7Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s201031\\AppData\\Roaming\\NuGet\\NuGet.Config",

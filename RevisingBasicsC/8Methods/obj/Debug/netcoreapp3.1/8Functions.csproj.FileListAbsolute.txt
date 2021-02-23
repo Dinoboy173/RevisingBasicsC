@@ -1,0 +1,10 @@
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\8Methods\bin\Debug\netcoreapp3.1\8Functions.exe
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\8Methods\bin\Debug\netcoreapp3.1\8Functions.deps.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\8Methods\bin\Debug\netcoreapp3.1\8Functions.runtimeconfig.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\8Methods\bin\Debug\netcoreapp3.1\8Functions.runtimeconfig.dev.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\8Methods\bin\Debug\netcoreapp3.1\8Functions.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\8Methods\bin\Debug\netcoreapp3.1\8Functions.pdb
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\8Methods\obj\Debug\netcoreapp3.1\8Functions.AssemblyInfoInputs.cache
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\8Methods\obj\Debug\netcoreapp3.1\8Functions.AssemblyInfo.cs
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\8Methods\obj\Debug\netcoreapp3.1\8Functions.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\8Methods\obj\Debug\netcoreapp3.1\8Functions.pdb

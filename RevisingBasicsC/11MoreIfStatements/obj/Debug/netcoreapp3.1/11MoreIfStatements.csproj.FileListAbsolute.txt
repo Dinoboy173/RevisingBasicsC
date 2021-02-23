@@ -1,0 +1,10 @@
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\11MoreIfStatements\bin\Debug\netcoreapp3.1\11MoreIfStatements.exe
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\11MoreIfStatements\bin\Debug\netcoreapp3.1\11MoreIfStatements.deps.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\11MoreIfStatements\bin\Debug\netcoreapp3.1\11MoreIfStatements.runtimeconfig.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\11MoreIfStatements\bin\Debug\netcoreapp3.1\11MoreIfStatements.runtimeconfig.dev.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\11MoreIfStatements\bin\Debug\netcoreapp3.1\11MoreIfStatements.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\11MoreIfStatements\bin\Debug\netcoreapp3.1\11MoreIfStatements.pdb
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\11MoreIfStatements\obj\Debug\netcoreapp3.1\11MoreIfStatements.AssemblyInfoInputs.cache
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\11MoreIfStatements\obj\Debug\netcoreapp3.1\11MoreIfStatements.AssemblyInfo.cs
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\11MoreIfStatements\obj\Debug\netcoreapp3.1\11MoreIfStatements.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\11MoreIfStatements\obj\Debug\netcoreapp3.1\11MoreIfStatements.pdb

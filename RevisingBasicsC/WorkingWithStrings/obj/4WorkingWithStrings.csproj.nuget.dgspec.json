@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithStrings\\4WorkingWithStrings.csproj": {}
+    "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithStrings\\4WorkingWithStrings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithStrings\\4WorkingWithStrings.csproj": {
+    "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithStrings\\4WorkingWithStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithStrings\\4WorkingWithStrings.csproj",
+        "projectUniqueName": "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithStrings\\4WorkingWithStrings.csproj",
         "projectName": "4WorkingWithStrings",
-        "projectPath": "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithStrings\\4WorkingWithStrings.csproj",
+        "projectPath": "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithStrings\\4WorkingWithStrings.csproj",
         "packagesPath": "C:\\Users\\s201031\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithStrings\\obj\\",
+        "outputPath": "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\WorkingWithStrings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s201031\\AppData\\Roaming\\NuGet\\NuGet.Config",

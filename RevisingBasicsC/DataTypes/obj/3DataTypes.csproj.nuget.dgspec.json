@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\DataTypes\\3DataTypes.csproj": {}
+    "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\DataTypes\\3DataTypes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\DataTypes\\3DataTypes.csproj": {
+    "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\DataTypes\\3DataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\DataTypes\\3DataTypes.csproj",
+        "projectUniqueName": "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\DataTypes\\3DataTypes.csproj",
         "projectName": "3DataTypes",
-        "projectPath": "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\DataTypes\\3DataTypes.csproj",
+        "projectPath": "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\DataTypes\\3DataTypes.csproj",
         "packagesPath": "C:\\Users\\s201031\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s201031\\Desktop\\Revising Basics\\RevisingBasicsC\\RevisingBasicsC\\DataTypes\\obj\\",
+        "outputPath": "C:\\Users\\s201031\\Desktop\\Revising basics\\RevisingBasicsC\\RevisingBasicsC\\DataTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s201031\\AppData\\Roaming\\NuGet\\NuGet.Config",
