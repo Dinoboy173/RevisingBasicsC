@@ -1,0 +1,11 @@
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\13SwitchStatements\bin\Debug\netcoreapp3.1\13SwitchStatements.exe
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\13SwitchStatements\bin\Debug\netcoreapp3.1\13SwitchStatements.deps.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\13SwitchStatements\bin\Debug\netcoreapp3.1\13SwitchStatements.runtimeconfig.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\13SwitchStatements\bin\Debug\netcoreapp3.1\13SwitchStatements.runtimeconfig.dev.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\13SwitchStatements\bin\Debug\netcoreapp3.1\13SwitchStatements.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\13SwitchStatements\bin\Debug\netcoreapp3.1\13SwitchStatements.pdb
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\13SwitchStatements\obj\Debug\netcoreapp3.1\13SwitchStatements.csprojAssemblyReference.cache
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\13SwitchStatements\obj\Debug\netcoreapp3.1\13SwitchStatements.AssemblyInfoInputs.cache
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\13SwitchStatements\obj\Debug\netcoreapp3.1\13SwitchStatements.AssemblyInfo.cs
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\13SwitchStatements\obj\Debug\netcoreapp3.1\13SwitchStatements.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\13SwitchStatements\obj\Debug\netcoreapp3.1\13SwitchStatements.pdb

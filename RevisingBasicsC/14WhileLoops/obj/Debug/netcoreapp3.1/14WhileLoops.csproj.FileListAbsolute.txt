@@ -1,0 +1,10 @@
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\14WhileLoops\bin\Debug\netcoreapp3.1\14WhileLoops.exe
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\14WhileLoops\bin\Debug\netcoreapp3.1\14WhileLoops.deps.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\14WhileLoops\bin\Debug\netcoreapp3.1\14WhileLoops.runtimeconfig.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\14WhileLoops\bin\Debug\netcoreapp3.1\14WhileLoops.runtimeconfig.dev.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\14WhileLoops\bin\Debug\netcoreapp3.1\14WhileLoops.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\14WhileLoops\bin\Debug\netcoreapp3.1\14WhileLoops.pdb
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\14WhileLoops\obj\Debug\netcoreapp3.1\14WhileLoops.AssemblyInfoInputs.cache
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\14WhileLoops\obj\Debug\netcoreapp3.1\14WhileLoops.AssemblyInfo.cs
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\14WhileLoops\obj\Debug\netcoreapp3.1\14WhileLoops.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\14WhileLoops\obj\Debug\netcoreapp3.1\14WhileLoops.pdb

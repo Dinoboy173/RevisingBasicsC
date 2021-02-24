@@ -1,0 +1,10 @@
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\15BuildingAGuessingGame\bin\Debug\netcoreapp3.1\15BuildingAGuessingGame.exe
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\15BuildingAGuessingGame\bin\Debug\netcoreapp3.1\15BuildingAGuessingGame.deps.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\15BuildingAGuessingGame\bin\Debug\netcoreapp3.1\15BuildingAGuessingGame.runtimeconfig.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\15BuildingAGuessingGame\bin\Debug\netcoreapp3.1\15BuildingAGuessingGame.runtimeconfig.dev.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\15BuildingAGuessingGame\bin\Debug\netcoreapp3.1\15BuildingAGuessingGame.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\15BuildingAGuessingGame\bin\Debug\netcoreapp3.1\15BuildingAGuessingGame.pdb
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\15BuildingAGuessingGame\obj\Debug\netcoreapp3.1\15BuildingAGuessingGame.AssemblyInfoInputs.cache
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\15BuildingAGuessingGame\obj\Debug\netcoreapp3.1\15BuildingAGuessingGame.AssemblyInfo.cs
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\15BuildingAGuessingGame\obj\Debug\netcoreapp3.1\15BuildingAGuessingGame.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\15BuildingAGuessingGame\obj\Debug\netcoreapp3.1\15BuildingAGuessingGame.pdb
