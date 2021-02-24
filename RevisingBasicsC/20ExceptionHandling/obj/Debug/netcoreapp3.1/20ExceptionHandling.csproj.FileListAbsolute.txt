@@ -1,0 +1,10 @@
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\20ExceptionHandling\bin\Debug\netcoreapp3.1\20ExceptionHandling.exe
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\20ExceptionHandling\bin\Debug\netcoreapp3.1\20ExceptionHandling.deps.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\20ExceptionHandling\bin\Debug\netcoreapp3.1\20ExceptionHandling.runtimeconfig.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\20ExceptionHandling\bin\Debug\netcoreapp3.1\20ExceptionHandling.runtimeconfig.dev.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\20ExceptionHandling\bin\Debug\netcoreapp3.1\20ExceptionHandling.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\20ExceptionHandling\bin\Debug\netcoreapp3.1\20ExceptionHandling.pdb
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\20ExceptionHandling\obj\Debug\netcoreapp3.1\20ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\20ExceptionHandling\obj\Debug\netcoreapp3.1\20ExceptionHandling.AssemblyInfo.cs
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\20ExceptionHandling\obj\Debug\netcoreapp3.1\20ExceptionHandling.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\20ExceptionHandling\obj\Debug\netcoreapp3.1\20ExceptionHandling.pdb

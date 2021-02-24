@@ -1,0 +1,10 @@
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\17BuildingAnExponentMethod\bin\Debug\netcoreapp3.1\17BuildingAnExponentMethod.exe
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\17BuildingAnExponentMethod\bin\Debug\netcoreapp3.1\17BuildingAnExponentMethod.deps.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\17BuildingAnExponentMethod\bin\Debug\netcoreapp3.1\17BuildingAnExponentMethod.runtimeconfig.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\17BuildingAnExponentMethod\bin\Debug\netcoreapp3.1\17BuildingAnExponentMethod.runtimeconfig.dev.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\17BuildingAnExponentMethod\bin\Debug\netcoreapp3.1\17BuildingAnExponentMethod.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\17BuildingAnExponentMethod\bin\Debug\netcoreapp3.1\17BuildingAnExponentMethod.pdb
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\17BuildingAnExponentMethod\obj\Debug\netcoreapp3.1\17BuildingAnExponentMethod.AssemblyInfoInputs.cache
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\17BuildingAnExponentMethod\obj\Debug\netcoreapp3.1\17BuildingAnExponentMethod.AssemblyInfo.cs
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\17BuildingAnExponentMethod\obj\Debug\netcoreapp3.1\17BuildingAnExponentMethod.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\17BuildingAnExponentMethod\obj\Debug\netcoreapp3.1\17BuildingAnExponentMethod.pdb

@@ -1,0 +1,10 @@
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\22ObjectMethods\bin\Debug\netcoreapp3.1\22ObjectMethods.exe
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\22ObjectMethods\bin\Debug\netcoreapp3.1\22ObjectMethods.deps.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\22ObjectMethods\bin\Debug\netcoreapp3.1\22ObjectMethods.runtimeconfig.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\22ObjectMethods\bin\Debug\netcoreapp3.1\22ObjectMethods.runtimeconfig.dev.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\22ObjectMethods\bin\Debug\netcoreapp3.1\22ObjectMethods.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\22ObjectMethods\bin\Debug\netcoreapp3.1\22ObjectMethods.pdb
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\22ObjectMethods\obj\Debug\netcoreapp3.1\22ObjectMethods.AssemblyInfoInputs.cache
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\22ObjectMethods\obj\Debug\netcoreapp3.1\22ObjectMethods.AssemblyInfo.cs
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\22ObjectMethods\obj\Debug\netcoreapp3.1\22ObjectMethods.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\22ObjectMethods\obj\Debug\netcoreapp3.1\22ObjectMethods.pdb

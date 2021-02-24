@@ -1,0 +1,10 @@
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\21ClassesAndObjects\bin\Debug\netcoreapp3.1\21ClassesAndObjects.exe
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\21ClassesAndObjects\bin\Debug\netcoreapp3.1\21ClassesAndObjects.deps.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\21ClassesAndObjects\bin\Debug\netcoreapp3.1\21ClassesAndObjects.runtimeconfig.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\21ClassesAndObjects\bin\Debug\netcoreapp3.1\21ClassesAndObjects.runtimeconfig.dev.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\21ClassesAndObjects\bin\Debug\netcoreapp3.1\21ClassesAndObjects.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\21ClassesAndObjects\bin\Debug\netcoreapp3.1\21ClassesAndObjects.pdb
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\21ClassesAndObjects\obj\Debug\netcoreapp3.1\21ClassesAndObjects.AssemblyInfoInputs.cache
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\21ClassesAndObjects\obj\Debug\netcoreapp3.1\21ClassesAndObjects.AssemblyInfo.cs
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\21ClassesAndObjects\obj\Debug\netcoreapp3.1\21ClassesAndObjects.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\21ClassesAndObjects\obj\Debug\netcoreapp3.1\21ClassesAndObjects.pdb
