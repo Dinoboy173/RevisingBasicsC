@@ -1,0 +1,11 @@
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\12BuildingABetterCalculator\bin\Debug\netcoreapp3.1\12BuildingABetterCalculator.exe
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\12BuildingABetterCalculator\bin\Debug\netcoreapp3.1\12BuildingABetterCalculator.deps.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\12BuildingABetterCalculator\bin\Debug\netcoreapp3.1\12BuildingABetterCalculator.runtimeconfig.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\12BuildingABetterCalculator\bin\Debug\netcoreapp3.1\12BuildingABetterCalculator.runtimeconfig.dev.json
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\12BuildingABetterCalculator\bin\Debug\netcoreapp3.1\12BuildingABetterCalculator.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\12BuildingABetterCalculator\bin\Debug\netcoreapp3.1\12BuildingABetterCalculator.pdb
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\12BuildingABetterCalculator\obj\Debug\netcoreapp3.1\12BuildingABetterCalculator.csprojAssemblyReference.cache
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\12BuildingABetterCalculator\obj\Debug\netcoreapp3.1\12BuildingABetterCalculator.AssemblyInfoInputs.cache
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\12BuildingABetterCalculator\obj\Debug\netcoreapp3.1\12BuildingABetterCalculator.AssemblyInfo.cs
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\12BuildingABetterCalculator\obj\Debug\netcoreapp3.1\12BuildingABetterCalculator.dll
+C:\Users\s201031\Desktop\Revising basics\RevisingBasicsC\RevisingBasicsC\12BuildingABetterCalculator\obj\Debug\netcoreapp3.1\12BuildingABetterCalculator.pdb
